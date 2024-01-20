@@ -1,7 +1,89 @@
 {
-    "header":[
-        {
-            
-        }
-    ]
+  "header": [
+    {
+      "vr_no": 1,
+      "vr_date": "2023-04-21T00:00:00.000Z",
+      "ac_name": "Innovations softwares",
+      "ac_amt": 2222222222222000,
+      "status": "A"
+    },
+    {
+      "vr_no": 3,
+      "vr_date": "2023-04-21T00:00:00.000Z",
+      "ac_name": "Innovations softwares",
+      "ac_amt": 1000,
+      "status": "A"
+    },
+    {
+      "vr_no": 4,
+      "vr_date": "2023-04-21T00:00:00.000Z",
+      "ac_name": "ABC softwares",
+      "ac_amt": 1000,
+      "status": "A"
+    },
+    {
+      "vr_no": 5,
+      "vr_date": "2023-06-27T00:00:00.000Z",
+      "ac_name": "UNPLUGAPPS",
+      "ac_amt": 40,
+      "status": "A"
+    },
+    {
+      "vr_no": 6,
+      "vr_date": "2023-06-27T00:00:00.000Z",
+      "ac_name": "Royal",
+      "ac_amt": 132000,
+      "status": "A"
+    }
+  ],
+  "detail": [
+    {
+      "id": 1,
+      "vr_no": 5,
+      "item_code": "ITEM 111",
+      "item_name": "ITEM NAME 111",
+      "description": "This Item ITEM ITEM ITEM..............",
+      "qty": 4,
+      "rate": 5
+    },
+    {
+      "id": 2,
+      "vr_no": 5,
+      "item_code": "ITEM 2",
+      "item_name": "ITEM NAME 2",
+      "description": "ITEM ITEM ITEM..............",
+      "qty": 2,
+      "rate": 10
+    }
+  ],
+  "item": [
+    {
+      "item_code": "ITEM 111",
+      "item_name": "ITEM NAME 111"
+    },
+    {
+      "item_code": "ITEM 15",
+      "item_name": "ITEM NAME 15"
+    },
+    {
+      "item_code": "ITEM 2",
+      "item_name": "ITEM NAME 2"
+    },
+    {
+      "item_code": "ITEM 26",
+      "item_name": "ITEM NAME 26"
+    },
+    {
+      "item_code": "ITEM 36",
+      "item_name": "ITEM NAME 36"
+    },
+    {
+      "item_code": "ITEM 5",
+      "item_name": "ITEM NAME 5"
+    },
+    {
+      "item_code": "ITEM 99999",
+      "item_name": "ITEM NAME 99999"
+    }
+  ]
 }
