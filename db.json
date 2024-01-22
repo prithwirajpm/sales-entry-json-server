@@ -1,59 +1,245 @@
 {
   "header": [
     {
-      "vr_no": 1,
-      "vr_date": "2023-04-21T00:00:00.000Z",
-      "ac_name": "Innovations softwares",
-      "ac_amt": 2222222222222000,
+      "id": "C1705818755779574",
+      "vr_date": "xxx",
+      "ac_name": "xxz",
+      "ac_amt": "dddd",
+      "status": "xxxxxx"
+    },
+    {
+      "id": "C1705819551478657",
+      "vr_date": "2024-01-21",
+      "ac_name": "ffkskdllf",
+      "ac_amt": "klaskdaklsklda",
+      "status": "kldklaskd"
+    },
+    {
+      "id": "C1705819638129735",
+      "vr_date": "2024-01-21",
+      "ac_name": "kdkfsdkkfs",
+      "ac_amt": "ksdkask",
+      "status": "kldkfksd"
+    },
+    {
+      "id": "C1705819758478985",
+      "vr_date": "2024-01-21",
+      "ac_name": "hjjj",
+      "ac_amt": "mmm",
+      "status": "njjjj"
+    },
+    {
+      "id": "C1705819780940386",
+      "vr_date": "2024-01-21",
+      "ac_name": "lkskasda",
+      "ac_amt": "sldklasdkas",
+      "status": "lsdklasl"
+    },
+    {
+      "id": "C1705829714476168",
+      "vr_date": "2024-01-21",
+      "ac_name": "ggfgd",
+      "ac_amt": "dfdsf",
+      "status": "fdvfdf"
+    },
+    {
+      "id": "C1705833102718876",
+      "vr_date": "2024-01-21",
+      "ac_name": "xsdcfsd",
+      "ac_amt": "dscvsdcv",
+      "status": "xcvsdcv"
+    },
+    {
+      "id": "C1705895013995134",
+      "vr_date": "2024-01-22",
+      "ac_name": "vb cv  cv",
+      "ac_amt": "xcvxcv",
+      "status": "v xvc "
+    },
+    {
+      "id": "C1705901750630230",
+      "vr_date": "2024-01-22",
+      "ac_name": "C1705818755779574",
+      "ac_amt": "",
+      "status": "C170583311981253"
+    },
+    {
+      "id": "C170590784524624",
+      "vr_date": "2024-01-22",
+      "ac_name": "vbjnkml,.",
+      "ac_amt": {},
+      "status": "hbjnkml,;.'/"
+    },
+    {
+      "id": "C1705909335612918",
+      "vr_date": "2024-01-22",
+      "ac_name": "gvgfbfg",
+      "ac_amt": "1000",
+      "status": "dfsdcdx"
+    },
+    {
+      "id": "C1705911106088681",
+      "vr_date": "2024-01-22",
+      "ac_name": "C1705818755779574",
+      "ac_amt": [],
+      "status": "C1705818755779574"
+    },
+    {
+      "id": "C170591120786061",
+      "vr_date": "2024-01-22",
+      "ac_name": "C170583311981253",
+      "ac_amt": [],
+      "status": "W"
+    },
+    {
+      "id": "C1705911292724951",
+      "vr_date": "2024-01-22",
+      "ac_name": "C170583311981253",
+      "ac_amt": [],
+      "status": "3"
+    },
+    {
+      "id": "C1705911540614849",
+      "vr_date": "2024-01-22",
+      "ac_name": "C170583311981253",
+      "ac_amt": " ",
       "status": "A"
     },
     {
-      "vr_no": 3,
-      "vr_date": "2023-04-21T00:00:00.000Z",
-      "ac_name": "Innovations softwares",
-      "ac_amt": 1000,
+      "id": "C1705911640859550",
+      "vr_date": "2024-01-22",
+      "ac_name": "dsfwdsf",
+      "ac_amt": " ",
       "status": "A"
     },
     {
-      "vr_no": 4,
-      "vr_date": "2023-04-21T00:00:00.000Z",
-      "ac_name": "ABC softwares",
-      "ac_amt": 1000,
-      "status": "A"
-    },
-    {
-      "vr_no": 5,
-      "vr_date": "2023-06-27T00:00:00.000Z",
-      "ac_name": "UNPLUGAPPS",
-      "ac_amt": 40,
-      "status": "A"
-    },
-    {
-      "vr_no": 6,
-      "vr_date": "2023-06-27T00:00:00.000Z",
-      "ac_name": "Royal",
-      "ac_amt": 132000,
+      "id": "C1705942192109114",
+      "vr_date": "2024-01-22",
+      "ac_name": "vijay",
+      "ac_amt": "18800.00",
       "status": "A"
     }
   ],
   "detail": [
     {
       "id": 1,
-      "vr_no": 5,
-      "item_code": "ITEM 111",
-      "item_name": "ITEM NAME 111",
-      "description": "This Item ITEM ITEM ITEM..............",
-      "qty": 4,
-      "rate": 5
+      "vr_no": "C1705907404966214",
+      "item_code": "ITEM 2",
+      "item_name": "ITEM NAME 2",
+      "qty": "22",
+      "rate": "50"
     },
     {
       "id": 2,
-      "vr_no": 5,
+      "vr_no": "C1705907404966214",
+      "item_code": "ITEM 99999",
+      "item_name": "ITEM NAME 99999",
+      "qty": "22",
+      "rate": "100"
+    },
+    {
+      "id": 3,
+      "vr_no": "C1705908166407274",
+      "item_code": "ITEM 15",
+      "item_name": "ITEM NAME 15",
+      "qty": "188",
+      "rate": "100"
+    },
+    {
+      "id": 4,
+      "vr_no": "C1705908166407274",
       "item_code": "ITEM 2",
       "item_name": "ITEM NAME 2",
-      "description": "ITEM ITEM ITEM..............",
-      "qty": 2,
-      "rate": 10
+      "qty": "188",
+      "rate": "50"
+    },
+    {
+      "id": 5,
+      "vr_no": "C1705908242307614",
+      "item_code": "ITEM 26",
+      "item_name": "ITEM NAME 26",
+      "qty": "188",
+      "rate": "80"
+    },
+    {
+      "id": 6,
+      "vr_no": "C1705909172985705",
+      "item_code": "ITEM 26",
+      "item_name": "ITEM NAME 26",
+      "qty": "188",
+      "rate": "80"
+    },
+    {
+      "id": 7,
+      "vr_no": "C1705909335612918",
+      "item_code": "ITEM 15",
+      "item_name": "ITEM NAME 15",
+      "qty": "188",
+      "rate": "100"
+    },
+    {
+      "id": 8,
+      "vr_no": "C1705909483798300",
+      "item_code": "ITEM 2",
+      "item_name": "ITEM NAME 2",
+      "qty": "188",
+      "rate": "2"
+    },
+    {
+      "id": 9,
+      "vr_no": "C1705910229808748",
+      "item_code": "ITEM 2",
+      "item_name": "ITEM NAME 2",
+      "qty": "188",
+      "rate": "80"
+    },
+    {
+      "id": 10,
+      "vr_no": "C1705910312231604",
+      "item_code": "ITEM 2",
+      "item_name": "ITEM NAME 2",
+      "qty": "188",
+      "rate": "80"
+    },
+    {
+      "id": 11,
+      "vr_no": "C1705911106088681",
+      "item_code": "ITEM 15",
+      "item_name": "ITEM NAME 15",
+      "qty": "22",
+      "rate": "100"
+    },
+    {
+      "id": 12,
+      "vr_no": "C170591120786061",
+      "item_code": "ITEM 2",
+      "item_name": "ITEM NAME 2",
+      "qty": "22",
+      "rate": "100"
+    },
+    {
+      "id": 13,
+      "vr_no": "C1705941722989667",
+      "item_code": "ITEM 2",
+      "item_name": "ITEM NAME 2",
+      "qty": "188",
+      "rate": "100"
+    },
+    {
+      "id": 14,
+      "vr_no": "C1705941722989667",
+      "item_code": "ITEM 26",
+      "item_name": "ITEM NAME 26",
+      "qty": "2",
+      "rate": "100"
+    },
+    {
+      "id": 15,
+      "vr_no": "C1705942192109114",
+      "item_code": "ITEM 26",
+      "item_name": "ITEM NAME 26",
+      "qty": "188",
+      "rate": "100"
     }
   ],
   "item": [

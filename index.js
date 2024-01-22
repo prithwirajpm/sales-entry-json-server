@@ -20,5 +20,5 @@ salesEntryServer.use(router)
 
 // to listen server fro resolving request from client
 salesEntryServer.listen(port,()=>{
-    console.log(`media player server started at port ${port} and waiting for client request`);
+    console.log(`sales Entry server started at port ${port} and waiting for client request`);
 })
